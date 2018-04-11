@@ -1,0 +1,20 @@
+{
+  "name": "demochallengejavascript",
+  "version": "1.0.0",
+  "description": "demo project Guerrilla Mail web javascript mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "alex kir",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "selenium-standalone": "^6.13.0",
+    "wdio-junit-reporter": "^0.4.2",
+    "wdio-mocha-framework": "^0.5.13",
+    "wdio-sauce-service": "^0.4.8",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "webdriverio": "^4.12.0"
+  }
+}
